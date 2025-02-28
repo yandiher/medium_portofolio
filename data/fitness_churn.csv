@@ -1,570 +1,570 @@
-distance (km),program,visit,price_value,height,weight,equipment,platform,extention,gender
-0.6,8,11,16,175,85,8,tiktok,continue,male
-0.5,8,10,16,174,80,8,tiktok,continue,female
-0.3,8,15,21,172,93,7,linkedin,continue,female
-0.5,9,11,17,169,74,8,youtube,continue,male
-0.2,8,15,20,166,103,7,search engine,continue,male
-0.5,8,12,16,173,88,9,linkedin,continue,female
-0.6,8,11,12,168,85,9,tiktok,continue,female
-0.5,8,14,15,168,82,5,search engine,continue,male
-0.6,9,10,16,171,86,9,tiktok,continue,female
-0.5,8,12,17,170,82,6,tiktok,continue,female
-0.4,8,14,16,170,83,6,tiktok,continue,male
-0.5,8,14,16,170,77,6,youtube,continue,female
-0.3,8,14,22,171,101,7,tiktok,continue,female
-0.3,8,18,18,172,84,6,facebook,continue,female
-0.3,8,16,16,165,101,6,search engine,continue,male
-0.3,8,16,19,170,97,8,linkedin,continue,female
-0.3,8,14,15,164,96,10,tiktok,continue,female
-0.4,8,13,16,169,82,7,tiktok,continue,male
-0.3,8,15,18,168,92,7,linkedin,continue,male
-0.5,9,12,18,171,76,7,search engine,continue,male
-0.3,8,17,20,171,84,5,youtube,continue,female
-0.5,8,12,16,171,84,9,tiktok,continue,male
-0.5,9,14,19,177,69,8,youtube,continue,female
-0.5,8,12,15,171,77,9,search engine,continue,female
-0.5,8,14,13,167,88,11,tiktok,continue,female
-0.5,8,10,14,174,81,10,linkedin,continue,female
-0.5,8,12,16,171,90,11,linkedin,continue,male
-0.5,8,12,12,168,88,8,search engine,continue,male
-0.7,9,13,15,177,79,7,youtube,continue,male
-0.7,9,12,13,168,67,6,linkedin,continue,female
-0.7,8,13,16,174,93,9,instagram,continue,male
-0.6,8,12,15,171,81,9,linkedin,continue,female
-0.5,8,14,16,171,75,6,search engine,continue,male
-0.3,8,15,16,166,91,7,youtube,continue,female
-0.4,8,12,18,174,86,8,search engine,continue,female
-0.2,8,16,22,167,119,8,tiktok,continue,female
-0.5,8,12,14,165,87,12,search engine,continue,female
-0.3,8,14,15,167,95,8,search engine,continue,female
-0.4,8,15,16,169,84,6,youtube,continue,male
-0.5,8,13,14,169,89,11,search engine,continue,female
-0.5,8,11,15,168,82,10,youtube,continue,female
-0.4,8,12,14,168,91,8,tiktok,continue,male
-0.3,8,16,17,170,96,6,youtube,continue,female
-0.5,9,13,13,170,76,6,instagram,continue,male
-0.6,9,12,12,174,67,7,search engine,continue,male
-0.4,8,15,16,169,74,5,youtube,continue,female
-0.3,8,14,19,169,105,6,youtube,continue,male
-0.5,8,13,14,169,80,6,youtube,continue,male
-0.3,8,16,19,171,90,5,tiktok,continue,male
-0.4,8,12,19,175,94,9,linkedin,continue,male
-0.6,9,11,18,177,78,10,linkedin,continue,male
-0.6,9,10,17,171,77,9,linkedin,continue,female
-0.6,8,10,16,172,87,8,instagram,continue,female
-0.7,9,13,15,176,59,7,linkedin,continue,male
-0.5,8,12,16,175,95,8,youtube,continue,male
-0.8,9,9,17,175,83,9,youtube,continue,female
-0.5,8,15,15,171,92,10,youtube,continue,male
-0.4,8,12,17,171,88,9,search engine,continue,female
-0.4,8,15,19,174,73,7,search engine,continue,male
-0.3,8,14,21,172,92,7,search engine,continue,male
-0.4,8,13,15,169,86,11,search engine,continue,male
-0.5,8,11,15,174,90,8,instagram,continue,male
-0.4,8,14,17,171,95,8,tiktok,continue,male
-0.5,8,14,17,175,78,6,linkedin,continue,female
-0.7,9,12,14,172,74,9,youtube,continue,female
-0.6,9,10,15,176,92,7,linkedin,continue,female
-0.6,8,11,16,171,76,7,tiktok,continue,female
-0.5,8,14,15,170,72,6,tiktok,continue,female
-0.3,8,15,17,163,97,9,tiktok,continue,male
-0.3,8,20,17,172,86,8,tiktok,continue,female
-0.4,8,13,19,173,84,7,linkedin,continue,female
-0.6,8,11,16,174,86,8,linkedin,continue,female
-0.5,8,12,16,170,83,9,search engine,continue,female
-0.9,9,11,14,170,88,10,linkedin,continue,male
-0.5,8,12,19,173,86,9,tiktok,continue,female
-0.4,8,14,19,172,94,8,youtube,continue,male
-0.5,8,16,13,171,87,7,tiktok,continue,male
-0.5,8,13,13,168,75,7,youtube,continue,female
-0.7,9,9,16,169,78,8,tiktok,continue,female
-0.4,8,13,21,175,86,8,linkedin,continue,female
-0.7,9,10,16,172,78,9,linkedin,continue,male
-0.5,8,12,19,175,84,8,linkedin,continue,male
-0.4,8,14,19,171,76,7,tiktok,continue,male
-0.4,8,15,18,171,87,7,youtube,continue,male
-0.3,8,15,21,169,97,6,search engine,continue,female
-0.4,8,16,16,169,89,8,linkedin,continue,female
-0.5,8,11,15,166,80,7,search engine,continue,female
-0.5,9,12,19,173,81,8,linkedin,continue,female
-0.4,8,14,18,172,79,7,linkedin,continue,male
-0.4,8,15,18,171,101,8,search engine,continue,male
-0.5,8,13,16,171,87,7,tiktok,continue,female
-0.4,8,12,16,168,80,11,search engine,continue,female
-0.5,8,12,17,172,82,7,youtube,continue,female
-0.5,8,18,14,171,73,5,linkedin,continue,male
-0.3,8,16,19,167,83,6,search engine,continue,male
-0.5,8,11,17,171,85,8,youtube,continue,male
-0.5,8,13,14,169,87,9,tiktok,continue,male
-0.6,8,13,14,172,83,7,instagram,continue,male
-0.3,8,14,18,168,88,8,tiktok,continue,female
-0.5,8,10,11,170,82,7,facebook,continue,female
-0.8,8,8,19,176,89,7,tiktok,continue,male
-0.5,8,12,16,169,84,7,search engine,continue,female
-0.5,8,13,14,170,83,10,search engine,continue,male
-0.4,8,15,16,169,99,8,linkedin,continue,male
-0.6,8,10,18,176,84,7,search engine,continue,female
-0.6,8,11,16,176,84,7,tiktok,continue,female
-0.3,8,14,17,169,89,7,tiktok,continue,female
-0.6,8,11,15,172,92,8,facebook,continue,female
-0.7,8,14,16,177,88,7,search engine,continue,male
-0.4,8,13,18,171,88,7,tiktok,continue,female
-0.7,9,9,14,177,97,6,tiktok,continue,male
-0.5,8,11,13,166,78,7,search engine,continue,female
-0.4,8,12,12,163,88,5,facebook,continue,male
-0.4,8,13,10,158,80,4,search engine,continue,female
-0.3,8,14,20,169,92,6,youtube,continue,female
-0.6,9,11,14,168,79,10,search engine,continue,male
-0.6,8,11,9,163,74,10,tiktok,continue,male
-0.6,9,12,18,173,73,7,linkedin,continue,male
-0.5,8,11,18,171,82,9,linkedin,continue,female
-0.4,8,13,13,171,100,10,youtube,continue,male
-0.6,9,14,13,169,73,4,linkedin,continue,male
-0.4,8,15,15,166,91,10,search engine,continue,female
-0.5,9,10,16,168,80,12,search engine,continue,male
-0.5,8,11,14,178,107,6,search engine,continue,female
-0.4,8,13,12,163,89,8,instagram,continue,male
-0.4,8,13,17,171,83,9,search engine,continue,female
-0.4,8,14,16,171,87,6,search engine,continue,male
-0.4,8,15,15,171,86,6,search engine,continue,female
-0.6,8,12,12,169,83,8,search engine,continue,female
-0.5,8,11,16,171,82,10,tiktok,continue,female
-0.4,8,14,15,169,81,6,linkedin,continue,female
-0.6,9,9,18,170,79,7,search engine,continue,female
-0.4,8,13,19,173,83,7,tiktok,continue,male
-0.3,8,15,19,169,94,8,youtube,continue,female
-0.4,8,18,16,172,70,6,youtube,continue,male
-0.4,8,13,19,171,86,8,youtube,continue,female
-0.6,8,11,15,170,88,9,search engine,continue,male
-0.6,9,11,16,173,87,9,instagram,continue,female
-0.5,8,16,17,174,91,8,search engine,continue,female
-0.5,8,12,16,173,80,7,tiktok,continue,male
-0.5,8,13,16,170,78,7,youtube,continue,male
-0.5,8,13,12,171,96,6,linkedin,continue,female
-0.5,9,11,19,174,81,7,tiktok,continue,male
-0.4,8,16,15,170,72,5,search engine,continue,male
-0.4,8,13,15,168,88,8,tiktok,continue,female
-0.7,9,20,13,173,52,7,youtube,continue,male
-0.7,9,10,14,171,85,8,youtube,continue,male
-0.5,8,11,17,172,75,8,youtube,continue,male
-0.5,8,12,16,169,90,10,youtube,continue,male
-0.5,8,11,18,174,81,8,tiktok,continue,female
-0.6,9,10,19,174,78,8,tiktok,continue,female
-0.4,8,13,20,173,84,7,facebook,continue,male
-0.7,8,9,15,171,89,8,instagram,continue,female
-0.3,8,15,16,167,76,3,instagram,continue,male
-0.5,8,14,15,171,75,6,search engine,continue,female
-0.4,8,13,17,167,83,8,tiktok,continue,male
-0.4,8,14,16,171,85,6,tiktok,continue,female
-0.4,8,13,13,165,84,7,search engine,continue,female
-0.6,8,11,17,172,81,8,youtube,continue,female
-0.3,8,14,20,168,98,8,tiktok,continue,female
-0.6,8,11,19,174,85,8,tiktok,continue,male
-0.6,8,13,18,174,86,7,tiktok,continue,male
-0.4,8,12,16,168,85,9,tiktok,continue,male
-0.7,8,11,17,172,82,9,linkedin,continue,female
-0.5,8,13,18,175,82,7,instagram,continue,female
-0.4,8,12,20,175,90,7,tiktok,continue,male
-0.3,8,16,19,166,92,6,search engine,continue,female
-0.5,8,11,18,171,79,6,youtube,continue,female
-0.5,8,12,19,172,80,7,linkedin,continue,male
-0.3,8,17,15,169,94,6,youtube,continue,male
-0.5,9,15,17,171,75,7,facebook,continue,female
-0.4,8,15,18,170,81,8,facebook,continue,female
-0.5,8,11,16,174,89,11,youtube,continue,male
-0.5,8,12,16,173,95,8,search engine,continue,female
-0.5,8,12,16,172,78,7,tiktok,continue,male
-0.6,9,11,19,174,79,9,facebook,continue,male
-0.5,8,12,17,170,82,7,youtube,continue,male
-0.5,8,11,13,174,89,4,instagram,continue,female
-0.4,8,14,15,168,80,8,instagram,continue,male
-0.4,8,13,17,171,96,9,youtube,continue,female
-0.5,8,11,15,167,84,10,search engine,continue,male
-0.5,9,11,18,173,68,8,linkedin,continue,female
-0.4,8,14,16,168,94,10,tiktok,continue,female
-0.7,8,11,15,175,84,7,instagram,continue,female
-0.3,8,14,17,169,100,8,tiktok,continue,female
-0.4,8,12,17,172,90,8,tiktok,continue,female
-0.5,8,14,17,173,84,6,instagram,continue,female
-0.3,8,15,18,171,86,8,tiktok,continue,female
-0.5,8,12,15,169,87,9,linkedin,continue,female
-0.7,8,10,16,177,95,6,tiktok,continue,male
-0.4,8,12,18,171,84,8,youtube,continue,female
-0.4,8,14,17,174,74,7,youtube,continue,male
-0.5,8,14,17,172,85,6,tiktok,continue,female
-0.4,8,15,18,174,89,6,facebook,continue,male
-0.5,8,14,15,172,76,6,youtube,continue,male
-0.5,8,12,13,172,79,8,facebook,continue,male
-0.6,9,11,16,170,84,11,tiktok,continue,female
-0.3,8,18,19,171,101,5,linkedin,continue,female
-0.4,7,16,16,169,109,7,tiktok,continue,male
-0.5,8,14,17,171,80,6,search engine,continue,male
-0.5,9,11,13,168,81,8,search engine,continue,female
-0.5,8,12,15,169,76,9,linkedin,continue,female
-0.8,9,9,16,170,78,9,youtube,continue,male
-0.6,8,10,17,171,80,7,facebook,continue,male
-0.5,8,12,15,172,94,7,search engine,continue,male
-0.7,9,8,19,174,76,7,linkedin,continue,female
-0.6,9,10,16,173,91,7,facebook,continue,male
-0.7,9,7,16,174,72,7,tiktok,continue,female
-0.3,8,12,15,170,84,4,tiktok,continue,female
-0.6,8,10,11,164,83,6,tiktok,continue,male
-0.6,9,9,17,174,88,8,facebook,continue,female
-0.4,8,13,16,174,97,10,youtube,continue,female
-0.4,8,12,17,172,93,8,search engine,continue,male
-0.4,8,11,13,168,86,6,search engine,continue,female
-0.5,8,12,14,173,90,7,facebook,continue,male
-0.5,9,10,17,175,89,7,tiktok,continue,female
-0.5,8,13,17,174,89,8,tiktok,continue,male
-0.6,8,11,17,173,83,7,search engine,continue,female
-0.4,8,14,17,173,81,7,search engine,continue,male
-0.4,8,13,20,173,92,7,tiktok,continue,female
-0.3,8,17,18,168,102,7,youtube,continue,male
-0.5,8,13,15,171,85,9,search engine,continue,female
-0.6,9,9,16,170,83,10,instagram,continue,female
-0.6,8,11,14,170,77,10,search engine,continue,female
-0.5,8,14,15,172,77,7,search engine,continue,male
-0.4,8,12,18,172,93,8,youtube,continue,male
-0.5,8,13,16,170,88,9,youtube,continue,female
-0.5,8,12,18,173,94,12,search engine,continue,male
-0.5,8,11,14,172,91,8,search engine,continue,female
-0.5,8,10,16,171,79,9,tiktok,continue,female
-0.5,8,14,18,173,79,6,search engine,continue,female
-0.4,8,15,14,170,97,8,tiktok,continue,female
-0.8,9,8,17,174,84,8,linkedin,continue,female
-0.5,8,15,14,169,74,7,search engine,continue,male
-0.5,8,13,15,169,87,12,tiktok,continue,male
-0.4,8,12,13,166,106,17,instagram,continue,female
-0.4,8,12,16,169,91,11,youtube,continue,male
-0.3,8,13,16,165,98,6,linkedin,continue,female
-0.7,9,10,12,168,79,9,tiktok,continue,male
-0.5,8,13,14,168,83,7,search engine,continue,male
-0.3,8,16,15,164,99,9,youtube,continue,male
-0.5,8,12,18,174,85,9,tiktok,continue,male
-0.4,8,14,14,167,88,8,instagram,continue,male
-0.5,8,13,14,170,94,8,linkedin,continue,female
-0.7,9,14,13,179,81,8,facebook,continue,male
-0.4,8,13,17,172,78,7,linkedin,continue,female
-0.6,8,10,14,172,81,8,linkedin,continue,female
-0.3,8,19,15,169,93,6,search engine,continue,female
-0.3,8,13,16,165,92,8,tiktok,continue,female
-0.4,8,14,16,173,104,8,tiktok,continue,female
-0.4,8,14,12,167,103,8,instagram,continue,female
-0.4,8,12,18,170,82,7,search engine,continue,female
-0.5,8,13,16,171,81,6,youtube,continue,male
-0.5,8,12,14,172,82,7,youtube,continue,male
-0.7,9,10,17,172,75,7,tiktok,continue,female
-0.5,8,13,14,171,87,6,search engine,continue,female
-0.6,8,12,16,173,85,8,youtube,continue,female
-0.6,8,12,14,170,84,9,tiktok,continue,female
-0.6,9,10,17,173,79,7,youtube,continue,female
-0.4,8,13,12,173,115,9,linkedin,continue,male
-0.6,8,12,17,174,78,6,search engine,continue,male
-0.4,8,14,18,167,82,7,search engine,continue,female
-0.5,8,13,13,166,75,6,tiktok,continue,female
-0.7,9,9,16,172,75,8,search engine,continue,male
-0.7,8,9,14,170,87,10,tiktok,continue,male
-0.5,8,13,14,168,77,8,youtube,continue,male
-0.5,8,12,11,162,82,7,facebook,continue,male
-0.6,9,11,17,175,78,7,linkedin,continue,female
-0.5,8,10,17,171,85,7,linkedin,continue,male
-0.6,8,12,9,161,74,8,facebook,continue,female
-0.5,8,13,9,163,84,7,search engine,continue,male
-0.5,8,11,13,164,77,8,youtube,continue,male
-0.5,8,12,13,165,77,6,search engine,continue,female
-0.3,8,14,13,160,89,6,linkedin,continue,male
-0.6,9,10,12,165,77,5,instagram,continue,female
-0.4,8,12,16,170,88,7,linkedin,continue,female
-0.6,8,10,16,171,81,8,facebook,continue,male
-0.6,8,11,9,176,120,4,tiktok,continue,female
-0.6,8,12,13,172,86,6,tiktok,continue,male
-0.3,8,15,17,168,100,7,youtube,continue,male
-0.5,8,14,13,172,84,9,youtube,continue,female
-0.3,8,15,16,168,97,8,linkedin,continue,female
-0.5,8,17,11,165,78,4,search engine,continue,female
-0.7,8,9,17,175,83,7,youtube,continue,male
-0.5,8,15,10,162,77,6,youtube,continue,female
-0.4,8,12,17,173,93,6,youtube,continue,female
-0.5,8,10,17,173,85,7,facebook,continue,male
-0.7,8,11,12,173,92,7,search engine,continue,male
-0.6,9,9,16,173,91,7,tiktok,continue,male
-0.4,8,12,17,172,91,10,linkedin,continue,female
-0.5,8,12,14,170,92,10,linkedin,continue,female
-0.7,8,11,15,170,86,8,search engine,continue,male
-0.6,8,10,18,174,73,8,instagram,continue,male
-0.6,8,11,16,171,76,8,tiktok,continue,male
-0.7,9,7,18,178,79,8,tiktok,continue,male
-0.5,8,14,13,176,92,6,linkedin,continue,female
-0.7,9,9,16,171,85,10,instagram,continue,female
-0.5,8,14,16,172,85,8,instagram,continue,female
-0.5,8,11,13,167,94,8,linkedin,continue,female
-1.0,9,10,19,173,87,9,tiktok,continue,female
-0.5,8,13,19,173,79,8,tiktok,continue,female
-0.6,8,12,13,169,89,8,youtube,continue,male
-0.7,9,10,14,169,77,10,tiktok,continue,female
-0.5,8,11,15,173,80,6,tiktok,continue,female
-0.5,8,10,15,171,90,8,linkedin,continue,female
-0.7,9,11,15,174,69,7,tiktok,continue,female
-0.5,8,12,16,172,72,8,instagram,continue,male
-0.3,8,16,18,174,91,7,youtube,continue,male
-0.3,8,15,18,173,82,9,tiktok,continue,female
-0.5,8,11,15,170,73,6,linkedin,continue,male
-0.4,8,13,17,171,79,7,youtube,continue,female
-0.8,9,7,19,172,71,7,tiktok,continue,female
-0.4,8,12,18,173,78,7,tiktok,continue,female
-0.7,9,10,18,173,81,7,instagram,continue,female
-0.7,8,12,17,176,81,8,linkedin,continue,female
-0.4,8,13,16,169,77,7,youtube,continue,female
-0.6,8,14,13,174,78,8,youtube,continue,female
-0.5,8,13,15,173,80,8,tiktok,continue,male
-0.3,8,16,19,172,95,7,linkedin,continue,male
-0.4,8,12,16,167,84,8,youtube,continue,female
-0.6,8,12,14,171,79,9,tiktok,continue,female
-0.3,8,14,16,170,104,8,youtube,continue,male
-0.3,8,14,20,170,110,8,search engine,continue,female
-0.6,8,10,14,172,84,8,tiktok,continue,male
-0.5,8,10,18,173,88,10,search engine,continue,female
-0.6,9,15,17,176,68,8,youtube,continue,female
-0.5,8,12,18,175,82,7,tiktok,continue,male
-0.5,8,14,13,170,92,11,search engine,continue,female
-0.5,8,12,14,169,88,9,tiktok,continue,female
-0.6,8,9,17,173,82,7,linkedin,continue,female
-0.4,8,12,16,168,87,10,instagram,continue,male
-0.4,8,13,11,167,80,7,linkedin,continue,female
-0.2,8,17,16,161,110,4,youtube,continue,male
-0.2,8,16,16,160,102,5,linkedin,continue,male
-0.4,8,14,17,172,75,9,tiktok,continue,male
-0.7,9,10,10,170,91,6,search engine,continue,female
-0.7,9,10,12,167,80,6,tiktok,continue,female
-0.5,8,11,11,163,75,7,search engine,continue,female
-0.6,9,11,14,171,75,6,youtube,continue,male
-0.6,8,12,13,168,74,7,search engine,continue,male
-0.4,8,13,18,169,89,8,instagram,continue,female
-0.3,8,13,18,169,89,8,instagram,continue,male
-0.3,8,15,17,167,95,7,search engine,continue,male
-0.4,8,16,12,167,97,6,youtube,continue,male
-0.4,8,14,16,167,82,5,youtube,continue,female
-0.4,8,13,14,167,81,6,search engine,continue,female
-0.5,8,12,12,162,74,5,search engine,continue,female
-0.3,8,15,17,165,87,4,search engine,continue,female
-0.5,8,11,12,163,73,6,facebook,continue,female
-0.3,8,14,13,161,80,6,search engine,continue,female
-0.3,8,15,17,167,79,6,search engine,continue,male
-0.3,8,17,13,161,91,5,linkedin,continue,male
-0.6,9,10,12,170,76,6,tiktok,continue,male
-0.4,8,13,11,164,86,11,facebook,continue,female
-0.6,9,12,10,166,69,6,search engine,continue,female
-0.4,8,14,11,160,78,7,tiktok,continue,female
-0.3,7,16,16,162,114,4,linkedin,continue,female
-1.4,6,21,11,190,94,9,tiktok,stop,male
-1.5,8,6,23,168,84,8,linkedin,stop,male
-1.3,9,12,17,170,68,7,tiktok,stop,male
-0.5,8,14,10,175,94,6,search engine,stop,male
-1.3,10,12,19,175,92,7,linkedin,stop,male
-0.6,8,12,14,175,90,9,instagram,stop,female
-1.2,8,7,15,172,95,7,youtube,stop,male
-0.7,8,14,12,172,75,8,youtube,stop,male
-0.6,8,11,10,172,83,8,tiktok,stop,female
-0.6,8,12,9,165,71,14,tiktok,stop,male
-0.9,8,9,13,167,85,9,instagram,stop,male
-1.0,7,10,13,175,93,9,youtube,stop,male
-1.1,10,19,6,175,75,6,linkedin,stop,female
-0.7,9,11,13,169,73,5,search engine,stop,female
-0.6,8,10,9,172,83,9,tiktok,stop,male
-0.7,8,10,6,170,99,6,youtube,stop,male
-0.8,7,11,13,171,94,9,youtube,stop,female
-1.0,7,10,11,173,71,10,search engine,stop,male
-1.7,6,9,17,171,95,6,youtube,stop,female
-0.8,8,12,13,180,83,8,tiktok,stop,male
-1.8,6,4,21,164,82,9,facebook,stop,female
-1.5,4,11,14,175,85,6,linkedin,stop,male
-1.1,8,18,10,182,83,7,linkedin,stop,male
-0.7,8,8,8,173,98,10,youtube,stop,female
-1.1,9,15,14,170,83,9,youtube,stop,male
-0.9,7,9,5,175,123,6,search engine,stop,female
-1.0,9,11,16,176,90,8,youtube,stop,female
-1.2,8,15,9,172,87,7,search engine,stop,female
-0.6,7,13,9,177,129,7,linkedin,stop,male
-1.0,8,12,12,170,67,8,linkedin,stop,female
-1.3,8,7,15,169,78,3,tiktok,stop,male
-1.0,8,7,14,173,79,10,youtube,stop,male
-1.0,8,9,13,172,84,7,tiktok,stop,male
-0.7,8,10,9,173,108,7,youtube,stop,male
-0.6,9,25,12,169,55,4,linkedin,stop,female
-0.6,8,10,12,173,92,5,youtube,stop,male
-0.6,8,10,13,169,87,8,linkedin,stop,female
-0.4,8,13,11,167,101,12,facebook,stop,male
-1.2,8,14,4,178,126,5,instagram,stop,male
-0.7,7,11,12,173,89,7,youtube,stop,male
-0.6,8,9,12,171,96,7,tiktok,stop,female
-1.2,8,10,16,175,78,6,instagram,stop,female
-0.6,8,11,13,171,86,10,tiktok,stop,female
-1.1,9,17,14,173,68,9,tiktok,stop,female
-0.8,8,9,13,169,87,9,search engine,stop,male
-1.5,6,10,18,172,72,9,linkedin,stop,female
-0.8,8,11,12,170,76,9,tiktok,stop,female
-0.7,8,15,9,173,78,7,youtube,stop,female
-0.7,7,12,10,170,97,7,youtube,stop,male
-0.7,8,11,10,169,74,9,instagram,stop,male
-1.4,7,11,15,174,97,5,tiktok,stop,female
-1.2,7,9,13,170,69,7,search engine,stop,male
-0.7,8,10,14,176,91,7,youtube,stop,female
-0.9,8,15,14,174,82,6,youtube,stop,male
-1.2,8,21,14,179,59,7,search engine,stop,male
-1.3,9,16,6,176,70,8,search engine,stop,male
-1.9,10,6,16,167,122,6,linkedin,stop,male
-1.1,10,11,11,168,75,7,search engine,stop,female
-1.2,8,11,15,173,95,9,search engine,stop,male
-0.7,8,12,12,170,83,8,youtube,stop,male
-1.2,8,7,14,170,85,5,instagram,stop,male
-0.7,9,10,14,169,67,5,facebook,stop,female
-0.8,8,12,12,175,81,6,tiktok,stop,male
-1.3,9,10,16,167,83,9,instagram,stop,female
-0.7,8,10,12,170,86,11,youtube,stop,female
-0.7,8,13,11,167,82,8,youtube,stop,female
-0.6,8,12,14,175,77,9,youtube,stop,male
-1.7,8,18,10,179,111,8,youtube,stop,male
-0.8,7,10,12,176,91,11,instagram,stop,male
-0.9,7,11,12,171,62,8,instagram,stop,male
-1.0,9,10,16,169,82,9,instagram,stop,male
-1.2,8,13,16,173,80,10,search engine,stop,male
-1.7,11,30,13,173,72,10,tiktok,stop,female
-0.7,8,9,9,169,105,8,youtube,stop,female
-1.2,9,11,16,171,99,8,search engine,stop,male
-1.2,9,7,14,166,71,8,tiktok,stop,female
-0.9,8,11,14,173,75,8,search engine,stop,male
-0.9,8,9,12,171,84,9,linkedin,stop,female
-1.2,8,9,16,168,82,9,youtube,stop,male
-0.5,8,11,13,166,82,10,facebook,stop,female
-0.8,8,22,10,179,87,6,linkedin,stop,female
-0.9,8,14,14,174,78,9,search engine,stop,male
-0.5,8,13,14,172,83,11,search engine,stop,male
-1.0,9,16,13,173,56,8,linkedin,stop,male
-1.2,9,18,16,176,84,7,instagram,stop,male
-1.6,6,8,19,173,67,9,search engine,stop,female
-1.8,9,5,24,163,108,6,instagram,stop,male
-1.0,8,13,15,172,81,9,youtube,stop,female
-1.2,7,18,10,173,84,6,youtube,stop,female
-0.7,7,12,12,172,103,9,facebook,stop,male
-0.8,8,11,16,179,78,9,instagram,stop,female
-0.8,9,9,12,172,84,9,instagram,stop,male
-2.4,9,1,29,157,130,9,search engine,stop,male
-1.5,8,6,14,169,52,6,linkedin,stop,male
-0.9,7,9,14,170,86,11,search engine,stop,male
-0.8,8,7,14,169,71,6,instagram,stop,male
-1.1,9,4,18,170,91,8,search engine,stop,male
-0.6,8,12,9,168,74,13,linkedin,stop,male
-0.6,7,13,9,166,85,9,youtube,stop,male
-0.7,9,10,8,174,89,5,tiktok,stop,male
-0.7,8,15,8,171,95,10,search engine,stop,female
-1.0,9,14,15,170,75,6,youtube,stop,male
-1.3,8,5,12,172,116,7,instagram,stop,male
-0.8,7,7,14,171,80,9,facebook,stop,female
-1.0,9,8,13,174,102,7,tiktok,stop,female
-1.6,11,5,16,163,105,6,search engine,stop,male
-0.8,7,12,7,170,98,13,facebook,stop,male
-0.8,8,8,16,175,84,6,linkedin,stop,female
-1.0,9,13,14,172,86,6,instagram,stop,female
-1.3,9,15,13,171,95,7,youtube,stop,male
-2.1,15,75,16,166,125,13,search engine,stop,male
-0.9,10,12,13,168,68,5,facebook,stop,female
-0.7,8,11,8,171,99,9,facebook,stop,male
-0.6,8,10,13,173,81,11,instagram,stop,male
-1.5,7,15,15,172,88,7,facebook,stop,male
-1.7,5,9,15,161,60,7,youtube,stop,female
-0.8,8,8,12,172,90,9,facebook,stop,female
-0.6,8,12,10,172,91,7,youtube,stop,female
-0.9,9,7,14,174,82,7,search engine,stop,male
-1.4,9,6,15,163,94,7,youtube,stop,male
-2.1,6,11,21,164,76,5,youtube,stop,male
-1.4,9,9,16,170,112,5,youtube,stop,female
-1.1,8,8,7,161,68,1,facebook,stop,female
-1.1,9,8,13,169,79,8,youtube,stop,male
-1.5,8,16,17,169,62,6,youtube,stop,male
-1.4,8,10,19,171,58,8,search engine,stop,female
-1.0,9,7,16,172,86,10,tiktok,stop,male
-1.4,7,6,20,171,76,6,youtube,stop,male
-0.7,8,12,14,175,81,7,tiktok,stop,male
-1.4,8,12,8,172,94,4,youtube,stop,male
-0.8,8,15,11,177,70,8,youtube,stop,female
-0.9,8,26,3,179,72,8,tiktok,stop,female
-0.8,8,7,4,162,85,10,search engine,stop,female
-1.4,9,3,15,163,99,8,linkedin,stop,male
-1.0,9,9,14,167,86,8,instagram,stop,female
-1.0,9,16,11,173,84,6,search engine,stop,female
-0.8,8,7,14,168,92,12,instagram,stop,male
-1.1,8,7,15,170,87,6,tiktok,stop,male
-2.2,3,16,19,160,46,9,search engine,stop,male
-1.7,8,16,14,174,100,7,tiktok,stop,male
-1.0,9,8,13,166,92,9,search engine,stop,male
-1.0,10,6,18,168,88,7,search engine,stop,male
-1.3,8,8,12,168,90,7,search engine,stop,female
-1.2,8,6,16,171,86,11,linkedin,stop,male
-0.8,9,8,12,175,80,8,linkedin,stop,female
-0.5,8,18,15,171,83,8,youtube,stop,male
-1.5,7,16,16,174,83,8,instagram,stop,female
-1.3,9,18,12,171,72,7,search engine,stop,male
-1.1,8,7,18,171,76,8,tiktok,stop,female
-1.3,9,9,19,169,89,6,tiktok,stop,female
-1.4,8,5,15,170,87,9,youtube,stop,male
-0.9,8,10,11,172,90,9,linkedin,stop,male
-0.8,9,13,14,170,56,7,youtube,stop,male
-0.8,8,9,15,175,82,9,tiktok,stop,female
-1.0,8,15,10,172,101,11,youtube,stop,female
-1.3,7,10,14,170,80,11,youtube,stop,male
-2.1,7,12,23,164,87,6,tiktok,stop,male
-1.2,9,8,11,170,114,11,search engine,stop,male
-0.8,9,13,11,175,64,8,youtube,stop,female
-2.3,8,6,26,169,110,6,youtube,stop,male
-0.8,8,14,10,169,84,6,tiktok,stop,male
-1.4,9,7,17,170,96,5,instagram,stop,male
-1.3,9,14,10,169,83,6,linkedin,stop,male
-2.1,5,22,26,168,56,11,instagram,stop,male
-1.6,8,12,13,175,116,3,tiktok,stop,male
-0.9,8,10,12,170,76,8,search engine,stop,male
-1.3,11,2,20,170,102,10,tiktok,stop,male
-1.5,8,6,20,171,101,7,linkedin,stop,female
-0.4,8,12,10,171,106,12,tiktok,stop,female
-0.7,9,12,12,167,79,9,search engine,stop,male
-1.1,10,11,12,169,92,8,tiktok,stop,female
-1.0,7,12,10,176,92,8,youtube,stop,male
-1.6,8,6,18,168,66,7,linkedin,stop,female
-1.0,9,7,10,176,84,7,search engine,stop,female
-1.1,9,8,15,172,77,6,youtube,stop,male
-0.8,8,12,11,163,75,5,youtube,stop,male
-1.2,5,28,9,179,84,6,search engine,stop,male
-0.7,9,9,7,176,98,4,search engine,stop,male
-1.2,10,6,17,169,82,8,tiktok,stop,male
-1.2,8,15,15,169,66,10,tiktok,stop,male
-0.7,8,9,12,172,98,10,linkedin,stop,female
-1.0,8,10,12,167,80,9,search engine,stop,male
-1.0,9,6,18,172,76,8,tiktok,stop,male
-1.1,8,6,10,166,87,7,youtube,stop,female
-1.5,8,6,19,166,96,11,youtube,stop,female
-1.1,10,8,16,165,82,7,tiktok,stop,female
-1.2,7,18,10,171,84,5,tiktok,stop,male
-3.0,7,64,23,162,76,10,tiktok,stop,male
-1.1,8,17,11,173,64,7,youtube,stop,male
-0.8,9,9,13,175,74,6,tiktok,stop,male
-1.3,8,7,17,169,77,12,youtube,stop,female
-0.9,9,6,14,171,101,6,youtube,stop,male
-1.1,8,14,13,173,80,7,tiktok,stop,female
-1.2,8,14,17,173,70,8,tiktok,stop,male
-1.4,9,7,15,169,95,9,tiktok,stop,female
-0.6,8,13,10,169,71,8,youtube,stop,male
-2.0,7,16,19,173,125,3,instagram,stop,male
-0.7,9,10,9,169,74,11,search engine,stop,male
-0.7,8,12,10,173,96,8,youtube,stop,male
-0.8,8,11,14,171,81,10,search engine,stop,male
-1.1,8,10,16,171,72,7,tiktok,stop,male
-1.3,9,6,15,173,106,5,facebook,stop,male
-2.0,9,9,20,168,111,5,youtube,stop,female
-1.3,10,13,16,169,83,9,youtube,stop,male
-1.4,9,9,17,170,70,7,search engine,stop,male
-0.6,9,10,11,168,84,11,linkedin,stop,male
-0.7,9,8,3,168,100,7,linkedin,stop,female
-1.4,9,14,9,175,104,4,search engine,stop,male
-1.5,9,19,18,168,83,7,search engine,stop,female
-1.3,9,12,13,163,85,8,tiktok,stop,male
-0.9,9,10,10,167,80,5,youtube,stop,male
-1.4,9,9,4,173,112,5,instagram,stop,male
+distance (km),visit,price_value,height,weight,equipment,platform,extention,gender
+0.6,11,16,175,85,8,tiktok,continue,male
+0.5,10,16,174,80,8,tiktok,continue,female
+0.3,15,21,172,93,7,linkedin,continue,female
+0.5,11,17,169,74,8,youtube,continue,male
+0.2,15,20,166,103,7,search engine,continue,male
+0.5,12,16,173,88,9,linkedin,continue,female
+0.6,11,12,168,85,9,tiktok,continue,female
+0.5,14,15,168,82,5,search engine,continue,male
+0.6,10,16,171,86,9,tiktok,continue,female
+0.5,12,17,170,82,6,tiktok,continue,female
+0.4,14,16,170,83,6,tiktok,continue,male
+0.5,14,16,170,77,6,youtube,continue,female
+0.3,14,22,171,101,7,tiktok,continue,female
+0.3,18,18,172,84,6,facebook,continue,female
+0.3,16,16,165,101,6,search engine,continue,male
+0.3,16,19,170,97,8,linkedin,continue,female
+0.3,14,15,164,96,10,tiktok,continue,female
+0.4,13,16,169,82,7,tiktok,continue,male
+0.3,15,18,168,92,7,linkedin,continue,male
+0.5,12,18,171,76,7,search engine,continue,male
+0.3,17,20,171,84,5,youtube,continue,female
+0.5,12,16,171,84,9,tiktok,continue,male
+0.5,14,19,177,69,8,youtube,continue,female
+0.5,12,15,171,77,9,search engine,continue,female
+0.5,14,13,167,88,11,tiktok,continue,female
+0.5,10,14,174,81,10,linkedin,continue,female
+0.5,12,16,171,90,11,linkedin,continue,male
+0.5,12,12,168,88,8,search engine,continue,male
+0.7,13,15,177,79,7,youtube,continue,male
+0.7,12,13,168,67,6,linkedin,continue,female
+0.7,13,16,174,93,9,instagram,continue,male
+0.6,12,15,171,81,9,linkedin,continue,female
+0.5,14,16,171,75,6,search engine,continue,male
+0.3,15,16,166,91,7,youtube,continue,female
+0.4,12,18,174,86,8,search engine,continue,female
+0.2,16,22,167,119,8,tiktok,continue,female
+0.5,12,14,165,87,12,search engine,continue,female
+0.3,14,15,167,95,8,search engine,continue,female
+0.4,15,16,169,84,6,youtube,continue,male
+0.5,13,14,169,89,11,search engine,continue,female
+0.5,11,15,168,82,10,youtube,continue,female
+0.4,12,14,168,91,8,tiktok,continue,male
+0.3,16,17,170,96,6,youtube,continue,female
+0.5,13,13,170,76,6,instagram,continue,male
+0.6,12,12,174,67,7,search engine,continue,male
+0.4,15,16,169,74,5,youtube,continue,female
+0.3,14,19,169,105,6,youtube,continue,male
+0.5,13,14,169,80,6,youtube,continue,male
+0.3,16,19,171,90,5,tiktok,continue,male
+0.4,12,19,175,94,9,linkedin,continue,male
+0.6,11,18,177,78,10,linkedin,continue,male
+0.6,10,17,171,77,9,linkedin,continue,female
+0.6,10,16,172,87,8,instagram,continue,female
+0.7,13,15,176,59,7,linkedin,continue,male
+0.5,12,16,175,95,8,youtube,continue,male
+0.8,9,17,175,83,9,youtube,continue,female
+0.5,15,15,171,92,10,youtube,continue,male
+0.4,12,17,171,88,9,search engine,continue,female
+0.4,15,19,174,73,7,search engine,continue,male
+0.3,14,21,172,92,7,search engine,continue,male
+0.4,13,15,169,86,11,search engine,continue,male
+0.5,11,15,174,90,8,instagram,continue,male
+0.4,14,17,171,95,8,tiktok,continue,male
+0.5,14,17,175,78,6,linkedin,continue,female
+0.7,12,14,172,74,9,youtube,continue,female
+0.6,10,15,176,92,7,linkedin,continue,female
+0.6,11,16,171,76,7,tiktok,continue,female
+0.5,14,15,170,72,6,tiktok,continue,female
+0.3,15,17,163,97,9,tiktok,continue,male
+0.3,20,17,172,86,8,tiktok,continue,female
+0.4,13,19,173,84,7,linkedin,continue,female
+0.6,11,16,174,86,8,linkedin,continue,female
+0.5,12,16,170,83,9,search engine,continue,female
+0.9,11,14,170,88,10,linkedin,continue,male
+0.5,12,19,173,86,9,tiktok,continue,female
+0.4,14,19,172,94,8,youtube,continue,male
+0.5,16,13,171,87,7,tiktok,continue,male
+0.5,13,13,168,75,7,youtube,continue,female
+0.7,9,16,169,78,8,tiktok,continue,female
+0.4,13,21,175,86,8,linkedin,continue,female
+0.7,10,16,172,78,9,linkedin,continue,male
+0.5,12,19,175,84,8,linkedin,continue,male
+0.4,14,19,171,76,7,tiktok,continue,male
+0.4,15,18,171,87,7,youtube,continue,male
+0.3,15,21,169,97,6,search engine,continue,female
+0.4,16,16,169,89,8,linkedin,continue,female
+0.5,11,15,166,80,7,search engine,continue,female
+0.5,12,19,173,81,8,linkedin,continue,female
+0.4,14,18,172,79,7,linkedin,continue,male
+0.4,15,18,171,101,8,search engine,continue,male
+0.5,13,16,171,87,7,tiktok,continue,female
+0.4,12,16,168,80,11,search engine,continue,female
+0.5,12,17,172,82,7,youtube,continue,female
+0.5,18,14,171,73,5,linkedin,continue,male
+0.3,16,19,167,83,6,search engine,continue,male
+0.5,11,17,171,85,8,youtube,continue,male
+0.5,13,14,169,87,9,tiktok,continue,male
+0.6,13,14,172,83,7,instagram,continue,male
+0.3,14,18,168,88,8,tiktok,continue,female
+0.5,10,11,170,82,7,facebook,continue,female
+0.8,8,19,176,89,7,tiktok,continue,male
+0.5,12,16,169,84,7,search engine,continue,female
+0.5,13,14,170,83,10,search engine,continue,male
+0.4,15,16,169,99,8,linkedin,continue,male
+0.6,10,18,176,84,7,search engine,continue,female
+0.6,11,16,176,84,7,tiktok,continue,female
+0.3,14,17,169,89,7,tiktok,continue,female
+0.6,11,15,172,92,8,facebook,continue,female
+0.7,14,16,177,88,7,search engine,continue,male
+0.4,13,18,171,88,7,tiktok,continue,female
+0.7,9,14,177,97,6,tiktok,continue,male
+0.5,11,13,166,78,7,search engine,continue,female
+0.4,12,12,163,88,5,facebook,continue,male
+0.4,13,10,158,80,4,search engine,continue,female
+0.3,14,20,169,92,6,youtube,continue,female
+0.6,11,14,168,79,10,search engine,continue,male
+0.6,11,9,163,74,10,tiktok,continue,male
+0.6,12,18,173,73,7,linkedin,continue,male
+0.5,11,18,171,82,9,linkedin,continue,female
+0.4,13,13,171,100,10,youtube,continue,male
+0.6,14,13,169,73,4,linkedin,continue,male
+0.4,15,15,166,91,10,search engine,continue,female
+0.5,10,16,168,80,12,search engine,continue,male
+0.5,11,14,178,107,6,search engine,continue,female
+0.4,13,12,163,89,8,instagram,continue,male
+0.4,13,17,171,83,9,search engine,continue,female
+0.4,14,16,171,87,6,search engine,continue,male
+0.4,15,15,171,86,6,search engine,continue,female
+0.6,12,12,169,83,8,search engine,continue,female
+0.5,11,16,171,82,10,tiktok,continue,female
+0.4,14,15,169,81,6,linkedin,continue,female
+0.6,9,18,170,79,7,search engine,continue,female
+0.4,13,19,173,83,7,tiktok,continue,male
+0.3,15,19,169,94,8,youtube,continue,female
+0.4,18,16,172,70,6,youtube,continue,male
+0.4,13,19,171,86,8,youtube,continue,female
+0.6,11,15,170,88,9,search engine,continue,male
+0.6,11,16,173,87,9,instagram,continue,female
+0.5,16,17,174,91,8,search engine,continue,female
+0.5,12,16,173,80,7,tiktok,continue,male
+0.5,13,16,170,78,7,youtube,continue,male
+0.5,13,12,171,96,6,linkedin,continue,female
+0.5,11,19,174,81,7,tiktok,continue,male
+0.4,16,15,170,72,5,search engine,continue,male
+0.4,13,15,168,88,8,tiktok,continue,female
+0.7,20,13,173,52,7,youtube,continue,male
+0.7,10,14,171,85,8,youtube,continue,male
+0.5,11,17,172,75,8,youtube,continue,male
+0.5,12,16,169,90,10,youtube,continue,male
+0.5,11,18,174,81,8,tiktok,continue,female
+0.6,10,19,174,78,8,tiktok,continue,female
+0.4,13,20,173,84,7,facebook,continue,male
+0.7,9,15,171,89,8,instagram,continue,female
+0.3,15,16,167,76,3,instagram,continue,male
+0.5,14,15,171,75,6,search engine,continue,female
+0.4,13,17,167,83,8,tiktok,continue,male
+0.4,14,16,171,85,6,tiktok,continue,female
+0.4,13,13,165,84,7,search engine,continue,female
+0.6,11,17,172,81,8,youtube,continue,female
+0.3,14,20,168,98,8,tiktok,continue,female
+0.6,11,19,174,85,8,tiktok,continue,male
+0.6,13,18,174,86,7,tiktok,continue,male
+0.4,12,16,168,85,9,tiktok,continue,male
+0.7,11,17,172,82,9,linkedin,continue,female
+0.5,13,18,175,82,7,instagram,continue,female
+0.4,12,20,175,90,7,tiktok,continue,male
+0.3,16,19,166,92,6,search engine,continue,female
+0.5,11,18,171,79,6,youtube,continue,female
+0.5,12,19,172,80,7,linkedin,continue,male
+0.3,17,15,169,94,6,youtube,continue,male
+0.5,15,17,171,75,7,facebook,continue,female
+0.4,15,18,170,81,8,facebook,continue,female
+0.5,11,16,174,89,11,youtube,continue,male
+0.5,12,16,173,95,8,search engine,continue,female
+0.5,12,16,172,78,7,tiktok,continue,male
+0.6,11,19,174,79,9,facebook,continue,male
+0.5,12,17,170,82,7,youtube,continue,male
+0.5,11,13,174,89,4,instagram,continue,female
+0.4,14,15,168,80,8,instagram,continue,male
+0.4,13,17,171,96,9,youtube,continue,female
+0.5,11,15,167,84,10,search engine,continue,male
+0.5,11,18,173,68,8,linkedin,continue,female
+0.4,14,16,168,94,10,tiktok,continue,female
+0.7,11,15,175,84,7,instagram,continue,female
+0.3,14,17,169,100,8,tiktok,continue,female
+0.4,12,17,172,90,8,tiktok,continue,female
+0.5,14,17,173,84,6,instagram,continue,female
+0.3,15,18,171,86,8,tiktok,continue,female
+0.5,12,15,169,87,9,linkedin,continue,female
+0.7,10,16,177,95,6,tiktok,continue,male
+0.4,12,18,171,84,8,youtube,continue,female
+0.4,14,17,174,74,7,youtube,continue,male
+0.5,14,17,172,85,6,tiktok,continue,female
+0.4,15,18,174,89,6,facebook,continue,male
+0.5,14,15,172,76,6,youtube,continue,male
+0.5,12,13,172,79,8,facebook,continue,male
+0.6,11,16,170,84,11,tiktok,continue,female
+0.3,18,19,171,101,5,linkedin,continue,female
+0.4,16,16,169,109,7,tiktok,continue,male
+0.5,14,17,171,80,6,search engine,continue,male
+0.5,11,13,168,81,8,search engine,continue,female
+0.5,12,15,169,76,9,linkedin,continue,female
+0.8,9,16,170,78,9,youtube,continue,male
+0.6,10,17,171,80,7,facebook,continue,male
+0.5,12,15,172,94,7,search engine,continue,male
+0.7,8,19,174,76,7,linkedin,continue,female
+0.6,10,16,173,91,7,facebook,continue,male
+0.7,7,16,174,72,7,tiktok,continue,female
+0.3,12,15,170,84,4,tiktok,continue,female
+0.6,10,11,164,83,6,tiktok,continue,male
+0.6,9,17,174,88,8,facebook,continue,female
+0.4,13,16,174,97,10,youtube,continue,female
+0.4,12,17,172,93,8,search engine,continue,male
+0.4,11,13,168,86,6,search engine,continue,female
+0.5,12,14,173,90,7,facebook,continue,male
+0.5,10,17,175,89,7,tiktok,continue,female
+0.5,13,17,174,89,8,tiktok,continue,male
+0.6,11,17,173,83,7,search engine,continue,female
+0.4,14,17,173,81,7,search engine,continue,male
+0.4,13,20,173,92,7,tiktok,continue,female
+0.3,17,18,168,102,7,youtube,continue,male
+0.5,13,15,171,85,9,search engine,continue,female
+0.6,9,16,170,83,10,instagram,continue,female
+0.6,11,14,170,77,10,search engine,continue,female
+0.5,14,15,172,77,7,search engine,continue,male
+0.4,12,18,172,93,8,youtube,continue,male
+0.5,13,16,170,88,9,youtube,continue,female
+0.5,12,18,173,94,12,search engine,continue,male
+0.5,11,14,172,91,8,search engine,continue,female
+0.5,10,16,171,79,9,tiktok,continue,female
+0.5,14,18,173,79,6,search engine,continue,female
+0.4,15,14,170,97,8,tiktok,continue,female
+0.8,8,17,174,84,8,linkedin,continue,female
+0.5,15,14,169,74,7,search engine,continue,male
+0.5,13,15,169,87,12,tiktok,continue,male
+0.4,12,13,166,106,17,instagram,continue,female
+0.4,12,16,169,91,11,youtube,continue,male
+0.3,13,16,165,98,6,linkedin,continue,female
+0.7,10,12,168,79,9,tiktok,continue,male
+0.5,13,14,168,83,7,search engine,continue,male
+0.3,16,15,164,99,9,youtube,continue,male
+0.5,12,18,174,85,9,tiktok,continue,male
+0.4,14,14,167,88,8,instagram,continue,male
+0.5,13,14,170,94,8,linkedin,continue,female
+0.7,14,13,179,81,8,facebook,continue,male
+0.4,13,17,172,78,7,linkedin,continue,female
+0.6,10,14,172,81,8,linkedin,continue,female
+0.3,19,15,169,93,6,search engine,continue,female
+0.3,13,16,165,92,8,tiktok,continue,female
+0.4,14,16,173,104,8,tiktok,continue,female
+0.4,14,12,167,103,8,instagram,continue,female
+0.4,12,18,170,82,7,search engine,continue,female
+0.5,13,16,171,81,6,youtube,continue,male
+0.5,12,14,172,82,7,youtube,continue,male
+0.7,10,17,172,75,7,tiktok,continue,female
+0.5,13,14,171,87,6,search engine,continue,female
+0.6,12,16,173,85,8,youtube,continue,female
+0.6,12,14,170,84,9,tiktok,continue,female
+0.6,10,17,173,79,7,youtube,continue,female
+0.4,13,12,173,115,9,linkedin,continue,male
+0.6,12,17,174,78,6,search engine,continue,male
+0.4,14,18,167,82,7,search engine,continue,female
+0.5,13,13,166,75,6,tiktok,continue,female
+0.7,9,16,172,75,8,search engine,continue,male
+0.7,9,14,170,87,10,tiktok,continue,male
+0.5,13,14,168,77,8,youtube,continue,male
+0.5,12,11,162,82,7,facebook,continue,male
+0.6,11,17,175,78,7,linkedin,continue,female
+0.5,10,17,171,85,7,linkedin,continue,male
+0.6,12,9,161,74,8,facebook,continue,female
+0.5,13,9,163,84,7,search engine,continue,male
+0.5,11,13,164,77,8,youtube,continue,male
+0.5,12,13,165,77,6,search engine,continue,female
+0.3,14,13,160,89,6,linkedin,continue,male
+0.6,10,12,165,77,5,instagram,continue,female
+0.4,12,16,170,88,7,linkedin,continue,female
+0.6,10,16,171,81,8,facebook,continue,male
+0.6,11,9,176,120,4,tiktok,continue,female
+0.6,12,13,172,86,6,tiktok,continue,male
+0.3,15,17,168,100,7,youtube,continue,male
+0.5,14,13,172,84,9,youtube,continue,female
+0.3,15,16,168,97,8,linkedin,continue,female
+0.5,17,11,165,78,4,search engine,continue,female
+0.7,9,17,175,83,7,youtube,continue,male
+0.5,15,10,162,77,6,youtube,continue,female
+0.4,12,17,173,93,6,youtube,continue,female
+0.5,10,17,173,85,7,facebook,continue,male
+0.7,11,12,173,92,7,search engine,continue,male
+0.6,9,16,173,91,7,tiktok,continue,male
+0.4,12,17,172,91,10,linkedin,continue,female
+0.5,12,14,170,92,10,linkedin,continue,female
+0.7,11,15,170,86,8,search engine,continue,male
+0.6,10,18,174,73,8,instagram,continue,male
+0.6,11,16,171,76,8,tiktok,continue,male
+0.7,7,18,178,79,8,tiktok,continue,male
+0.5,14,13,176,92,6,linkedin,continue,female
+0.7,9,16,171,85,10,instagram,continue,female
+0.5,14,16,172,85,8,instagram,continue,female
+0.5,11,13,167,94,8,linkedin,continue,female
+1.0,10,19,173,87,9,tiktok,continue,female
+0.5,13,19,173,79,8,tiktok,continue,female
+0.6,12,13,169,89,8,youtube,continue,male
+0.7,10,14,169,77,10,tiktok,continue,female
+0.5,11,15,173,80,6,tiktok,continue,female
+0.5,10,15,171,90,8,linkedin,continue,female
+0.7,11,15,174,69,7,tiktok,continue,female
+0.5,12,16,172,72,8,instagram,continue,male
+0.3,16,18,174,91,7,youtube,continue,male
+0.3,15,18,173,82,9,tiktok,continue,female
+0.5,11,15,170,73,6,linkedin,continue,male
+0.4,13,17,171,79,7,youtube,continue,female
+0.8,7,19,172,71,7,tiktok,continue,female
+0.4,12,18,173,78,7,tiktok,continue,female
+0.7,10,18,173,81,7,instagram,continue,female
+0.7,12,17,176,81,8,linkedin,continue,female
+0.4,13,16,169,77,7,youtube,continue,female
+0.6,14,13,174,78,8,youtube,continue,female
+0.5,13,15,173,80,8,tiktok,continue,male
+0.3,16,19,172,95,7,linkedin,continue,male
+0.4,12,16,167,84,8,youtube,continue,female
+0.6,12,14,171,79,9,tiktok,continue,female
+0.3,14,16,170,104,8,youtube,continue,male
+0.3,14,20,170,110,8,search engine,continue,female
+0.6,10,14,172,84,8,tiktok,continue,male
+0.5,10,18,173,88,10,search engine,continue,female
+0.6,15,17,176,68,8,youtube,continue,female
+0.5,12,18,175,82,7,tiktok,continue,male
+0.5,14,13,170,92,11,search engine,continue,female
+0.5,12,14,169,88,9,tiktok,continue,female
+0.6,9,17,173,82,7,linkedin,continue,female
+0.4,12,16,168,87,10,instagram,continue,male
+0.4,13,11,167,80,7,linkedin,continue,female
+0.2,17,16,161,110,4,youtube,continue,male
+0.2,16,16,160,102,5,linkedin,continue,male
+0.4,14,17,172,75,9,tiktok,continue,male
+0.7,10,10,170,91,6,search engine,continue,female
+0.7,10,12,167,80,6,tiktok,continue,female
+0.5,11,11,163,75,7,search engine,continue,female
+0.6,11,14,171,75,6,youtube,continue,male
+0.6,12,13,168,74,7,search engine,continue,male
+0.4,13,18,169,89,8,instagram,continue,female
+0.3,13,18,169,89,8,instagram,continue,male
+0.3,15,17,167,95,7,search engine,continue,male
+0.4,16,12,167,97,6,youtube,continue,male
+0.4,14,16,167,82,5,youtube,continue,female
+0.4,13,14,167,81,6,search engine,continue,female
+0.5,12,12,162,74,5,search engine,continue,female
+0.3,15,17,165,87,4,search engine,continue,female
+0.5,11,12,163,73,6,facebook,continue,female
+0.3,14,13,161,80,6,search engine,continue,female
+0.3,15,17,167,79,6,search engine,continue,male
+0.3,17,13,161,91,5,linkedin,continue,male
+0.6,10,12,170,76,6,tiktok,continue,male
+0.4,13,11,164,86,11,facebook,continue,female
+0.6,12,10,166,69,6,search engine,continue,female
+0.4,14,11,160,78,7,tiktok,continue,female
+0.3,16,16,162,114,4,linkedin,continue,female
+1.4,21,11,190,94,9,tiktok,stop,male
+1.5,6,23,168,84,8,linkedin,stop,male
+1.3,12,17,170,68,7,tiktok,stop,male
+0.5,14,10,175,94,6,search engine,stop,male
+1.3,12,19,175,92,7,linkedin,stop,male
+0.6,12,14,175,90,9,instagram,stop,female
+1.2,7,15,172,95,7,youtube,stop,male
+0.7,14,12,172,75,8,youtube,stop,male
+0.6,11,10,172,83,8,tiktok,stop,female
+0.6,12,9,165,71,14,tiktok,stop,male
+0.9,9,13,167,85,9,instagram,stop,male
+1.0,10,13,175,93,9,youtube,stop,male
+1.1,19,6,175,75,6,linkedin,stop,female
+0.7,11,13,169,73,5,search engine,stop,female
+0.6,10,9,172,83,9,tiktok,stop,male
+0.7,10,6,170,99,6,youtube,stop,male
+0.8,11,13,171,94,9,youtube,stop,female
+1.0,10,11,173,71,10,search engine,stop,male
+1.7,9,17,171,95,6,youtube,stop,female
+0.8,12,13,180,83,8,tiktok,stop,male
+1.8,4,21,164,82,9,facebook,stop,female
+1.5,11,14,175,85,6,linkedin,stop,male
+1.1,18,10,182,83,7,linkedin,stop,male
+0.7,8,8,173,98,10,youtube,stop,female
+1.1,15,14,170,83,9,youtube,stop,male
+0.9,9,5,175,123,6,search engine,stop,female
+1.0,11,16,176,90,8,youtube,stop,female
+1.2,15,9,172,87,7,search engine,stop,female
+0.6,13,9,177,129,7,linkedin,stop,male
+1.0,12,12,170,67,8,linkedin,stop,female
+1.3,7,15,169,78,3,tiktok,stop,male
+1.0,7,14,173,79,10,youtube,stop,male
+1.0,9,13,172,84,7,tiktok,stop,male
+0.7,10,9,173,108,7,youtube,stop,male
+0.6,25,12,169,55,4,linkedin,stop,female
+0.6,10,12,173,92,5,youtube,stop,male
+0.6,10,13,169,87,8,linkedin,stop,female
+0.4,13,11,167,101,12,facebook,stop,male
+1.2,14,4,178,126,5,instagram,stop,male
+0.7,11,12,173,89,7,youtube,stop,male
+0.6,9,12,171,96,7,tiktok,stop,female
+1.2,10,16,175,78,6,instagram,stop,female
+0.6,11,13,171,86,10,tiktok,stop,female
+1.1,17,14,173,68,9,tiktok,stop,female
+0.8,9,13,169,87,9,search engine,stop,male
+1.5,10,18,172,72,9,linkedin,stop,female
+0.8,11,12,170,76,9,tiktok,stop,female
+0.7,15,9,173,78,7,youtube,stop,female
+0.7,12,10,170,97,7,youtube,stop,male
+0.7,11,10,169,74,9,instagram,stop,male
+1.4,11,15,174,97,5,tiktok,stop,female
+1.2,9,13,170,69,7,search engine,stop,male
+0.7,10,14,176,91,7,youtube,stop,female
+0.9,15,14,174,82,6,youtube,stop,male
+1.2,21,14,179,59,7,search engine,stop,male
+1.3,16,6,176,70,8,search engine,stop,male
+1.9,6,16,167,122,6,linkedin,stop,male
+1.1,11,11,168,75,7,search engine,stop,female
+1.2,11,15,173,95,9,search engine,stop,male
+0.7,12,12,170,83,8,youtube,stop,male
+1.2,7,14,170,85,5,instagram,stop,male
+0.7,10,14,169,67,5,facebook,stop,female
+0.8,12,12,175,81,6,tiktok,stop,male
+1.3,10,16,167,83,9,instagram,stop,female
+0.7,10,12,170,86,11,youtube,stop,female
+0.7,13,11,167,82,8,youtube,stop,female
+0.6,12,14,175,77,9,youtube,stop,male
+1.7,18,10,179,111,8,youtube,stop,male
+0.8,10,12,176,91,11,instagram,stop,male
+0.9,11,12,171,62,8,instagram,stop,male
+1.0,10,16,169,82,9,instagram,stop,male
+1.2,13,16,173,80,10,search engine,stop,male
+1.7,30,13,173,72,10,tiktok,stop,female
+0.7,9,9,169,105,8,youtube,stop,female
+1.2,11,16,171,99,8,search engine,stop,male
+1.2,7,14,166,71,8,tiktok,stop,female
+0.9,11,14,173,75,8,search engine,stop,male
+0.9,9,12,171,84,9,linkedin,stop,female
+1.2,9,16,168,82,9,youtube,stop,male
+0.5,11,13,166,82,10,facebook,stop,female
+0.8,22,10,179,87,6,linkedin,stop,female
+0.9,14,14,174,78,9,search engine,stop,male
+0.5,13,14,172,83,11,search engine,stop,male
+1.0,16,13,173,56,8,linkedin,stop,male
+1.2,18,16,176,84,7,instagram,stop,male
+1.6,8,19,173,67,9,search engine,stop,female
+1.8,5,24,163,108,6,instagram,stop,male
+1.0,13,15,172,81,9,youtube,stop,female
+1.2,18,10,173,84,6,youtube,stop,female
+0.7,12,12,172,103,9,facebook,stop,male
+0.8,11,16,179,78,9,instagram,stop,female
+0.8,9,12,172,84,9,instagram,stop,male
+2.4,1,29,157,130,9,search engine,stop,male
+1.5,6,14,169,52,6,linkedin,stop,male
+0.9,9,14,170,86,11,search engine,stop,male
+0.8,7,14,169,71,6,instagram,stop,male
+1.1,4,18,170,91,8,search engine,stop,male
+0.6,12,9,168,74,13,linkedin,stop,male
+0.6,13,9,166,85,9,youtube,stop,male
+0.7,10,8,174,89,5,tiktok,stop,male
+0.7,15,8,171,95,10,search engine,stop,female
+1.0,14,15,170,75,6,youtube,stop,male
+1.3,5,12,172,116,7,instagram,stop,male
+0.8,7,14,171,80,9,facebook,stop,female
+1.0,8,13,174,102,7,tiktok,stop,female
+1.6,5,16,163,105,6,search engine,stop,male
+0.8,12,7,170,98,13,facebook,stop,male
+0.8,8,16,175,84,6,linkedin,stop,female
+1.0,13,14,172,86,6,instagram,stop,female
+1.3,15,13,171,95,7,youtube,stop,male
+2.1,75,16,166,125,13,search engine,stop,male
+0.9,12,13,168,68,5,facebook,stop,female
+0.7,11,8,171,99,9,facebook,stop,male
+0.6,10,13,173,81,11,instagram,stop,male
+1.5,15,15,172,88,7,facebook,stop,male
+1.7,9,15,161,60,7,youtube,stop,female
+0.8,8,12,172,90,9,facebook,stop,female
+0.6,12,10,172,91,7,youtube,stop,female
+0.9,7,14,174,82,7,search engine,stop,male
+1.4,6,15,163,94,7,youtube,stop,male
+2.1,11,21,164,76,5,youtube,stop,male
+1.4,9,16,170,112,5,youtube,stop,female
+1.1,8,7,161,68,1,facebook,stop,female
+1.1,8,13,169,79,8,youtube,stop,male
+1.5,16,17,169,62,6,youtube,stop,male
+1.4,10,19,171,58,8,search engine,stop,female
+1.0,7,16,172,86,10,tiktok,stop,male
+1.4,6,20,171,76,6,youtube,stop,male
+0.7,12,14,175,81,7,tiktok,stop,male
+1.4,12,8,172,94,4,youtube,stop,male
+0.8,15,11,177,70,8,youtube,stop,female
+0.9,26,3,179,72,8,tiktok,stop,female
+0.8,7,4,162,85,10,search engine,stop,female
+1.4,3,15,163,99,8,linkedin,stop,male
+1.0,9,14,167,86,8,instagram,stop,female
+1.0,16,11,173,84,6,search engine,stop,female
+0.8,7,14,168,92,12,instagram,stop,male
+1.1,7,15,170,87,6,tiktok,stop,male
+2.2,16,19,160,46,9,search engine,stop,male
+1.7,16,14,174,100,7,tiktok,stop,male
+1.0,8,13,166,92,9,search engine,stop,male
+1.0,6,18,168,88,7,search engine,stop,male
+1.3,8,12,168,90,7,search engine,stop,female
+1.2,6,16,171,86,11,linkedin,stop,male
+0.8,8,12,175,80,8,linkedin,stop,female
+0.5,18,15,171,83,8,youtube,stop,male
+1.5,16,16,174,83,8,instagram,stop,female
+1.3,18,12,171,72,7,search engine,stop,male
+1.1,7,18,171,76,8,tiktok,stop,female
+1.3,9,19,169,89,6,tiktok,stop,female
+1.4,5,15,170,87,9,youtube,stop,male
+0.9,10,11,172,90,9,linkedin,stop,male
+0.8,13,14,170,56,7,youtube,stop,male
+0.8,9,15,175,82,9,tiktok,stop,female
+1.0,15,10,172,101,11,youtube,stop,female
+1.3,10,14,170,80,11,youtube,stop,male
+2.1,12,23,164,87,6,tiktok,stop,male
+1.2,8,11,170,114,11,search engine,stop,male
+0.8,13,11,175,64,8,youtube,stop,female
+2.3,6,26,169,110,6,youtube,stop,male
+0.8,14,10,169,84,6,tiktok,stop,male
+1.4,7,17,170,96,5,instagram,stop,male
+1.3,14,10,169,83,6,linkedin,stop,male
+2.1,22,26,168,56,11,instagram,stop,male
+1.6,12,13,175,116,3,tiktok,stop,male
+0.9,10,12,170,76,8,search engine,stop,male
+1.3,2,20,170,102,10,tiktok,stop,male
+1.5,6,20,171,101,7,linkedin,stop,female
+0.4,12,10,171,106,12,tiktok,stop,female
+0.7,12,12,167,79,9,search engine,stop,male
+1.1,11,12,169,92,8,tiktok,stop,female
+1.0,12,10,176,92,8,youtube,stop,male
+1.6,6,18,168,66,7,linkedin,stop,female
+1.0,7,10,176,84,7,search engine,stop,female
+1.1,8,15,172,77,6,youtube,stop,male
+0.8,12,11,163,75,5,youtube,stop,male
+1.2,28,9,179,84,6,search engine,stop,male
+0.7,9,7,176,98,4,search engine,stop,male
+1.2,6,17,169,82,8,tiktok,stop,male
+1.2,15,15,169,66,10,tiktok,stop,male
+0.7,9,12,172,98,10,linkedin,stop,female
+1.0,10,12,167,80,9,search engine,stop,male
+1.0,6,18,172,76,8,tiktok,stop,male
+1.1,6,10,166,87,7,youtube,stop,female
+1.5,6,19,166,96,11,youtube,stop,female
+1.1,8,16,165,82,7,tiktok,stop,female
+1.2,18,10,171,84,5,tiktok,stop,male
+3.0,64,23,162,76,10,tiktok,stop,male
+1.1,17,11,173,64,7,youtube,stop,male
+0.8,9,13,175,74,6,tiktok,stop,male
+1.3,7,17,169,77,12,youtube,stop,female
+0.9,6,14,171,101,6,youtube,stop,male
+1.1,14,13,173,80,7,tiktok,stop,female
+1.2,14,17,173,70,8,tiktok,stop,male
+1.4,7,15,169,95,9,tiktok,stop,female
+0.6,13,10,169,71,8,youtube,stop,male
+2.0,16,19,173,125,3,instagram,stop,male
+0.7,10,9,169,74,11,search engine,stop,male
+0.7,12,10,173,96,8,youtube,stop,male
+0.8,11,14,171,81,10,search engine,stop,male
+1.1,10,16,171,72,7,tiktok,stop,male
+1.3,6,15,173,106,5,facebook,stop,male
+2.0,9,20,168,111,5,youtube,stop,female
+1.3,13,16,169,83,9,youtube,stop,male
+1.4,9,17,170,70,7,search engine,stop,male
+0.6,10,11,168,84,11,linkedin,stop,male
+0.7,8,3,168,100,7,linkedin,stop,female
+1.4,14,9,175,104,4,search engine,stop,male
+1.5,19,18,168,83,7,search engine,stop,female
+1.3,12,13,163,85,8,tiktok,stop,male
+0.9,10,10,167,80,5,youtube,stop,male
+1.4,9,4,173,112,5,instagram,stop,male
