@@ -1,0 +1,6 @@
+the average of age is 25.93 with standard deviation 4.83. the youngest is 19 and the oldest is 35 years old.
+the average of distance is 6.48 with standard deviation 2.46. the closest is 0.56 km and the furthest is 15.52 km.
+the average of salary is 4073020 with standard deviation 446757. the lowest salary is 3466000 and the highest salary is 5724000.
+male worker is more than female worker with value male is 675 and female 662.
+there are 573 employees are less than 1 year of working, 324 employees have worked for 1 year, 240 employees have worked for 2 years, 157 employees have worked for 3 years, 25 employees have worked for 4 years, and 18 employees have worked for the company for 5 years.
+there are 1063 contract employees and 271 permanent employees.
