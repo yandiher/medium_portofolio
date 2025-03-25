@@ -4,3 +4,10 @@ the average of salary is 4073020 with standard deviation 446757. the lowest sala
 male worker is more than female worker with value male is 675 and female 662.
 there are 573 employees are less than 1 year of working, 324 employees have worked for 1 year, 240 employees have worked for 2 years, 157 employees have worked for 3 years, 25 employees have worked for 4 years, and 18 employees have worked for the company for 5 years.
 there are 1063 contract employees and 271 permanent employees.
+the variable age is NOT NORMALLY DISTRIBUTED with p-value 3.0713755647928806e-23.
+the variable distance is NOT NORMALLY DISTRIBUTED with p-value 2.5740584999919672e-05.
+the variable salary is NOT NORMALLY DISTRIBUTED with p-value 2.3251802350804323e-22.
+correlation between age and salary is 0.2677533755542009 with p-value 2.1967819030868583e-23
+correlation between distance (km) and salary is 0.11161612976582555 with p-value 4.309750076740309e-05
+there is no significant different mean between salary of male and female with p-value 0.24937777852995913
+there is a significant different mean between salary of permanent and contract with p-value 1.1067336628530867e-87
